@@ -2,6 +2,16 @@
 
 <h1>Michael James East</h1>
 
+<p>Hi! My names Michael East, and I'm an aspiring Full Stack Web Developer.</p>
+
+<p>I'm current learning the following technologies:</p>
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+</ul>
+
 <!--
 **MrEasty94/MrEasty94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
