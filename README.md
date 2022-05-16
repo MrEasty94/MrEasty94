@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<h1>Michael James East</h1>
+<div align="center">
+  <img src="https://ibb.co/7v7Y5BX">
+</div>
 
 <p>Hi! My names Michael East, and I'm an aspiring Full Stack Web Developer.</p>
 
